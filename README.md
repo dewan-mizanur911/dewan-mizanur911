@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dewan mizanur
+- 👋 Hi, I’m @dewan mizanur rahman
 - 👀 I’m interested in Security
 - 🌱 I’m currently learning Web Developement
 - 💞️ I’m looking to collaborate with Web Projects
